@@ -1,0 +1,26 @@
+database has  15235300 unretrieved IDs
+database has  3789588 retrieved IDs info
+could not get 928878 IDs due to private setting or other causes
+08 59 00 3789588
+database has  15200400 unretrieved IDs
+database has  3816368 retrieved IDs info
+could not get 936996 IDs due to private setting or other causes
+Sun Jul 24 09:36:33 2016 3816368
+database has  15198800 unretrieved IDs
+database has  3817615 retrieved IDs info
+could not get 937349 IDs due to private setting or other causes
+Sun Jul 24 09:38:14 2016 3817615
+database has  15185200 unretrieved IDs
+database has  3828227 retrieved IDs info
+could not get 940337 IDs due to private setting or other causes
+Sun Jul 24 09:51:37 2016 1469325097.61 3828227
+getting 16687 more IDs info 
+time elapse 1552.14 s,25.87 mins,0.43 hrs
+10.75 gain/per_second
+at this speed, for 1000 W  info will use 258.37 hours
+Sun Jul 24 10:17:29 2016 1469326649.75 3844914
+getting 1742 more IDs info 
+time elapse  3.15 mins, 0.05 hrs, 189.19 s
+9.21 gain/per_second
+at this speed, for 1000 W  info will use 301.68 hours
+Sun Jul 24 10:20:38 2016 1469326838.94 3846656
