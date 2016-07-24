@@ -5,7 +5,7 @@ import MySQLdb
 
 import time
 
-steam.api.key.set("729785E94AB264F65B6491807EEB9503")
+# steam.api.key.set("")
 from sys import argv
 
 def connect_mysql(db_host="192.168.0.2", user="iri",
